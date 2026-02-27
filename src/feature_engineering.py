@@ -51,6 +51,10 @@ def create_risk_features(mckinsey_df):
     }
     df['education_numeric'] = df['education_required'].map(edu_map).fillna(1)
     
+    # Create tech sophistication numeric
+    tech_map = {'Very High': 4, 'High': 3, 'Medium': 2, 'Low': 1}
+    df['tech_sophistication_required'] = df['tech_sophistication_required'].map(tech_map).fillna(2)
+    
     # Create protection score (higher = more protected from automation)
     df['protection_score'] = (
         df['creativity_required'].map({'Very High': 5, 'High': 4, 'Medium': 3, 'Low': 2, 'Very Low': 1}) * 0.25 +
@@ -130,8 +134,14 @@ def prepare_ml_features(mckinsey_df):
     risk_map = {'Very High': 4, 'High': 3, 'Medium': 2, 'Low': 1}
     y = df['displacement_risk_score'].map(risk_map)
     
-    # Handle missing values
-    X = X.fillna(X.median())
+    # Handle missing values - only for numeric columns
+    numeric_cols = X.select_dtypes(include=[np.number]).columns
+    X[numeric_cols] = X[numeric_cols].fillna(X[numeric_cols].median())
+    
+    # Remove rows where y is NaN
+    valid_idx = y.notna()
+    X = X[valid_idx]
+    y = y[valid_idx]
     
     return X, y, feature_cols
 

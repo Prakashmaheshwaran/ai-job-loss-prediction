@@ -162,6 +162,10 @@ def plot_employment_projections(bls_df, save_path=None):
     """
     fig, axes = plt.subplots(2, 2, figsize=(15, 12))
     
+    # Convert wage to numeric if it's string
+    bls_df = bls_df.copy()
+    bls_df['median_wage_annual'] = pd.to_numeric(bls_df['median_wage_annual'], errors='coerce')
+    
     # Plot 1: Employment change by risk category
     ax1 = axes[0, 0]
     risk_change = bls_df.groupby('automation_risk')['percent_change'].mean()

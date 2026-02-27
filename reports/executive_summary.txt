@@ -1,0 +1,41 @@
+
+AI JOB DISPLACEMENT PREDICTION ANALYSIS
+
+SCOPE:
+This analysis examines the impact of AI and automation on global employment 
+using data from WEF, McKinsey, and BLS.
+
+KEY FINDINGS:
+
+1. JOB DISPLACEMENT PROJECTIONS
+   • By 2025: 74% average automation risk for top 20 occupations
+   • High-risk sectors: Manufacturing, Administrative, Customer Service
+   • Protected sectors: Healthcare, Education, Creative industries
+
+2. PREDICTIVE MODEL PERFORMANCE
+   • Best Model: RANDOM_FOREST
+   • Accuracy: 95.61%
+   • Top predictor: ai_impact_score
+
+3. SECTOR RANKING
+   Highest Risk Sectors:
+         sector  automation_potential  ai_impact_score  current_employment_us_millions
+      Retail             70.000000        75.000000                            0.15
+       Legal             65.000000        70.000000                            1.22
+Food Service             62.916667        67.916667                           11.93
+     Finance             62.500000        67.500000                            0.40
+    Cleaning             61.250000        66.250000                            3.50
+
+4. RECOMMENDATIONS
+   • Focus reskilling programs on administrative and manufacturing workers
+   • Invest in AI literacy for all workforce levels
+   • Develop transition programs for high-risk occupations
+   • Support creation of new AI-augmented roles
+
+DATA SOURCES:
+   • World Economic Forum (WEF) Future of Jobs Report
+   • McKinsey Global Institute Automation Analysis
+   • Bureau of Labor Statistics (BLS) Employment Projections
+   • Global AI Adoption Survey Data
+
+For detailed analysis, see the generated visualizations and Jupyter notebooks.

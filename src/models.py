@@ -192,7 +192,10 @@ def predict_job_loss_risk(occupation_data):
     """
     Convenience function to predict job loss risk for occupations.
     """
-    from .feature_engineering import prepare_ml_features
+    try:
+        from feature_engineering import prepare_ml_features
+    except ImportError:
+        from .feature_engineering import prepare_ml_features
     
     X, y, feature_cols = prepare_ml_features(occupation_data)
     
