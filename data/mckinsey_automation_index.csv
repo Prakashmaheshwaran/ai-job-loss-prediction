@@ -1,0 +1,173 @@
+occupation_code,occupation_name,sector,automation_potential,ai_impact_score,current_employment_us_millions,projected_change_2025_2030_percent,median_wage_usd,education_required,skill_level,creativity_required,social_interaction_required,physical_manual_work,cognitive_routine_work,tech_sophistication_required,ai_substitutability_index,displacement_risk_score
+11-1011,Chief Executives,Management,15,25,2.5,3,184460,Advanced degree,High,High,Very High,Low,Medium,Medium,15,Low
+11-1021,General and Operations Managers,Management,20,30,2.3,5,97270,Bachelor's degree,High,Medium,High,Low,Medium,Medium,20,Low
+11-2021,Marketing Managers,Management,25,35,0.3,7,135030,Bachelor's degree,High,High,Very High,Low,Medium,Medium,25,Low
+11-3031,Financial Managers,Management,30,40,0.7,15,129890,Bachelor's degree,High,Medium,High,Low,Medium,Medium,30,Low
+11-9021,Construction Managers,Management,35,40,0.4,7,98220,Bachelor's degree,High,Medium,High,Medium,Medium,Medium,35,Low
+11-9111,Medical and Health Services Managers,Healthcare,20,30,0.5,32,101340,Bachelor's degree,High,Medium,High,Low,Medium,Medium,20,Low
+13-1111,Management Analysts,Business,40,45,0.9,11,93610,Bachelor's degree,High,High,Medium,Low,Medium,Medium,40,Medium
+13-2011,Accountants and Auditors,Business,65,70,1.5,5,77560,Bachelor's degree,High,Medium,Medium,Low,Medium,High,65,High
+13-2051,Financial Analysts,Finance,55,60,0.3,9,81200,Bachelor's degree,High,Medium,Medium,Low,Medium,High,55,Medium
+13-2099,Financial Specialists,Finance,70,75,0.1,6,78200,Bachelor's degree,High,Low,Medium,Low,High,High,70,High
+15-1111,Computer and Information Research Scientists,Technology,10,15,0.03,21,131490,Doctoral degree,Very High,Very High,Low,Low,Low,Very High,10,Low
+15-1121,Computer Systems Analysts,Technology,25,30,0.6,9,99650,Bachelor's degree,High,Medium,Medium,Low,Medium,High,25,Low
+15-1122,Information Security Analysts,Technology,15,20,0.14,35,102620,Bachelor's degree,High,Medium,Medium,Low,Low,High,15,Low
+15-1131,Computer Programmers,Technology,70,80,0.19,-10,89300,Bachelor's degree,High,Medium,Low,Low,Medium,High,70,High
+15-1132,Software Developers,Technology,15,20,1.5,22,110140,Bachelor's degree,High,High,Medium,Low,Low,Very High,15,Low
+15-1133,Web Developers,Technology,35,40,0.2,23,77300,Associate degree,High,High,Medium,Low,Low,High,35,Medium
+15-1141,Database Administrators,Technology,45,50,0.09,4,98260,Bachelor's degree,High,Medium,Medium,Low,Low,High,45,Medium
+15-1151,Computer Support Specialists,Technology,60,65,0.9,6,55250,Some college,Medium,Low,High,Low,Medium,Medium,60,High
+15-1211,Computer Hardware Engineers,Technology,15,20,0.07,5,119560,Bachelor's degree,High,High,Medium,Low,Low,Very High,15,Low
+15-1221,Computer and Information Systems Managers,Technology,20,25,0.5,11,151150,Bachelor's degree,High,Medium,High,Low,Low,High,20,Low
+15-2031,Operations Research Analysts,Technology,30,35,0.1,23,82440,Bachelor's degree,High,High,Low,Low,Medium,High,30,Low
+15-2091,Data Scientists,Technology,20,25,0.14,36,100910,Bachelor's degree,High,High,Low,Low,Low,Very High,20,Low
+17-1011,Architects,Engineering,15,20,0.13,3,80480,Bachelor's degree,High,Very High,Medium,Low,Medium,Medium,15,Low
+17-2051,Civil Engineers,Engineering,20,25,0.31,8,88270,Bachelor's degree,High,Medium,Medium,Low,Low,High,20,Low
+17-2071,Electrical Engineers,Engineering,25,30,0.19,3,100420,Bachelor's degree,High,Medium,Medium,Low,Low,Very High,25,Low
+17-2112,Industrial Engineers,Engineering,45,50,0.33,10,88950,Bachelor's degree,High,Medium,Medium,Low,Medium,High,45,Medium
+17-2199,Engineers,Engineering,35,40,0.2,6,96000,Bachelor's degree,High,Medium,Medium,Low,Low,High,35,Medium
+19-1011,Animal Scientists,Science,10,15,0.003,5,63590,Doctoral degree,Very High,High,Low,Low,Medium,Low,10,Low
+19-1021,Biochemists and Biophysicists,Science,15,20,0.04,5,102270,Doctoral degree,Very High,Medium,Low,Low,Medium,Very High,15,Low
+19-1041,Epidemiologists,Healthcare,20,25,0.01,30,74960,Master's degree,Very High,Medium,Medium,Low,Medium,High,20,Low
+19-2011,Astronomers,Science,10,15,0.002,5,128330,Doctoral degree,Very High,High,Low,Low,Low,Very High,10,Low
+19-2099,Physical Scientists,Science,20,25,0.02,5,89000,Doctoral degree,Very High,Medium,Low,Low,Medium,Very High,20,Low
+19-3032,Industrial-Organizational Psychologists,Science,25,30,0.001,4,105310,Doctoral degree,Very High,Medium,Medium,Low,Low,Medium,25,Low
+19-4042,Environmental Science Technicians,Science,50,55,0.03,6,46090,Associate degree,Medium,Low,Low,Medium,Low,Medium,50,Medium
+19-4099,Life Physical and Social Science Technicians,Science,60,65,0.08,5,51000,Associate degree,Medium,Low,Low,Medium,Low,Medium,60,High
+21-1011,Substance Abuse Counselors,Healthcare,10,15,0.35,22,47660,Master's degree,High,Medium,Very High,Low,Low,Low,10,Low
+21-1022,Healthcare Social Workers,Healthcare,15,20,0.18,13,56750,Master's degree,High,Medium,Very High,Low,Low,Low,15,Low
+21-1023,Clinical Counselors,Healthcare,12,18,0.81,23,47820,Master's degree,High,Medium,Very High,Low,Low,Low,12,Low
+21-1093,Community Health Workers,Healthcare,25,30,0.06,15,44990,High school diploma,Medium,Medium,Very High,Low,Medium,Low,25,Low
+21-2021,Directors Religious Activities,Religious,5,10,0.14,8,44960,Bachelor's degree,Medium,Medium,Very High,Low,Low,Low,5,Low
+23-1011,Lawyers,Legal,35,40,0.81,9,127990,Doctoral degree,Very High,Very High,Very High,Low,Low,Low,35,Low
+23-2011,Paralegals and Legal Assistants,Legal,75,80,0.35,14,52200,Associate degree,Medium,Low,Medium,Low,Medium,Low,75,High
+23-2093,Title Examiners Abstractors,Legal,85,90,0.06,1,52710,High school diploma,Low,Low,Medium,Low,High,Low,85,High
+25-1000,Teachers,Education,15,20,4.0,4,61920,Bachelor's degree,High,High,Very High,Low,Low,Low,15,Low
+25-2011,Preschool Teachers,Education,20,25,0.55,18,31190,Associate degree,Medium,High,Very High,Low,Medium,Low,20,Low
+25-2021,Elementary School Teachers,Education,12,15,1.1,4,61520,Bachelor's degree,High,High,Very High,Low,Low,Low,12,Low
+25-2031,Secondary School Teachers,Education,15,18,0.94,5,61530,Bachelor's degree,High,High,Very High,Low,Low,Low,15,Low
+25-3000,Other Teachers and Instructors,Education,25,30,0.59,7,39900,Bachelor's degree,High,High,Very High,Low,Medium,Low,25,Low
+25-3097,Tutors and Teachers,Education,40,45,0.07,9,41340,Bachelor's degree,Medium,High,Very High,Low,Low,Low,40,Medium
+25-4012,Curators,Museum,15,20,0.013,12,56760,Master's degree,High,Very High,Medium,Low,Low,Low,15,Low
+25-4021,Librarians,Education,30,35,0.12,1,60270,Master's degree,High,Medium,Medium,Low,Low,Low,30,Low
+25-4031,Librarians and Media Collections,Education,25,30,0.13,9,50420,Master's degree,High,Medium,Medium,Low,Medium,Low,25,Low
+25-9021,Farm and Home Management Advisors,Education,30,35,0.01,3,52320,Master's degree,High,Medium,High,Low,Medium,Low,30,Low
+25-9099,Educational Instruction and Library Workers,Education,35,40,0.1,8,49270,Bachelor's degree,Medium,Medium,High,Low,Medium,Low,35,Medium
+27-1011,Art Directors,Arts,15,20,0.05,11,105180,Bachelor's degree,High,Very High,High,Low,Medium,Medium,15,Low
+27-1012,Craft Artists,Arts,25,30,0.01,3,35720,No degree required,Medium,High,Medium,Medium,Medium,Low,25,Low
+27-1013,Fine Artists,Arts,10,15,0.015,6,52270,No degree required,Medium,Very High,Medium,Low,High,Low,10,Low
+27-1014,Multimedia Artists and Animators,Arts,25,30,0.04,5,78090,Bachelor's degree,High,Very High,Medium,Low,Medium,Medium,25,Low
+27-1021,Commercial and Industrial Designers,Design,35,40,0.03,3,60880,Bachelor's degree,High,Very High,Medium,Low,Low,Medium,35,Low
+27-1022,Fashion Designers,Design,30,35,0.02,3,75810,Bachelor's degree,High,Very High,Medium,Low,Low,Medium,30,Low
+27-1024,Graphic Designers,Design,40,45,0.29,3,53600,Bachelor's degree,High,Very High,Medium,Low,Low,High,40,Medium
+27-1025,Interior Designers,Design,25,30,0.08,2,56040,Bachelor's degree,High,Very High,Medium,Low,Low,Medium,25,Low
+27-1026,Merchandise Displayers,Retail,70,75,0.15,3,33600,High school diploma,Low,Medium,Low,Medium,Low,Low,70,High
+27-2011,Actors,Entertainment,10,15,0.06,32,43660,No degree required,Medium,High,Medium,Low,Low,Low,10,Low
+27-2012,Producers and Directors,Entertainment,15,20,0.16,24,79840,Bachelor's degree,High,Very High,Very High,Low,Low,Medium,15,Low
+27-2021,Athletes and Sports Competitors,Entertainment,5,10,0.016,36,112060,No degree required,High,High,High,High,Low,Low,5,Low
+27-2022,Coaches and Scouts,Entertainment,15,20,0.25,20,42350,Bachelor's degree,Medium,Medium,Very High,Low,Medium,Low,15,Low
+27-2023,Umpires and Referees,Entertainment,20,25,0.02,4,42200,High school diploma,Medium,Low,Very High,Low,Medium,Low,20,Low
+27-2031,Dancers,Entertainment,10,15,0.004,30,43960,No degree required,Medium,Very High,Medium,High,Low,Low,10,Low
+27-2032,Choreographers,Entertainment,15,20,0.005,13,49270,No degree required,Medium,Very High,High,Low,Low,Low,15,Low
+27-2041,Music Directors and Composers,Music,15,20,0.05,4,52530,Bachelor's degree,High,Very High,High,Low,Low,Medium,15,Low
+27-2042,Musicians and Singers,Music,15,20,0.06,11,43740,No degree required,Medium,Very High,Medium,Low,Low,Low,15,Low
+27-2099,Entertainers and Performers,Entertainment,15,20,0.05,5,45000,No degree required,Medium,High,Medium,Low,Low,Low,15,Low
+27-3011,Broadcast Announcers,Media,40,45,0.05,-5,49380,Bachelor's degree,Medium,Medium,Very High,Low,Medium,Medium,40,Medium
+27-3012,Public Address Announcers,Entertainment,35,40,0.01,3,36980,High school diploma,Low,Medium,Very High,Low,Low,Low,35,Low
+27-3023,News Analysts,Media,45,50,0.05,-12,54970,Bachelor's degree,High,High,Very High,Low,Medium,Medium,45,Medium
+27-3022,Reporters and Correspondents,Media,50,55,0.04,-10,48880,Bachelor's degree,High,High,Medium,Low,Medium,Low,50,Medium
+27-3031,Public Relations Specialists,Media,25,30,0.27,11,62410,Bachelor's degree,High,High,Very High,Low,Medium,Low,25,Low
+27-3041,Editors,Media,55,60,0.11,-5,63450,Bachelor's degree,High,Very High,Medium,Low,Medium,Medium,55,Medium
+27-3042,Technical Writers,Media,45,50,0.06,12,78750,Bachelor's degree,High,High,Low,Low,Low,High,45,Medium
+27-3043,Writers and Authors,Media,40,45,0.15,9,69710,Bachelor's degree,High,Very High,Low,Low,Medium,Low,40,Medium
+27-3091,Interpreters and Translators,Media,30,35,0.08,20,52330,Bachelor's degree,High,Medium,Very High,Low,Low,Low,30,Low
+27-4011,Audio and Video Technicians,Technology,50,55,0.07,21,48430,Associate degree,Medium,Low,Medium,Low,Low,Medium,50,Medium
+27-4012,Broadcast Technicians,Technology,65,70,0.03,2,45190,Associate degree,Medium,Low,Medium,Low,Low,Medium,65,High
+27-4014,Sound Engineering Technicians,Technology,40,45,0.02,21,52070,Associate degree,Medium,High,Medium,Low,Low,Medium,40,Medium
+27-4021,Photographers,Arts,45,50,0.12,9,43620,High school diploma,Medium,High,Medium,Low,Medium,Low,45,Medium
+27-4031,Camera Operators,Media,55,60,0.03,14,48580,Bachelor's degree,Medium,Medium,Medium,Low,Medium,Medium,55,Medium
+27-4041,Film and Video Editors,Media,45,50,0.03,12,63780,Bachelor's degree,High,Very High,Medium,Low,Medium,Medium,45,Medium
+29-1011,Chiropractors,Healthcare,15,20,0.05,7,70450,Doctoral degree,High,Medium,Very High,Low,Low,Low,15,Low
+29-1021,Dentists,Healthcare,10,15,0.13,7,160370,Doctoral degree,Very High,Medium,Very High,Low,Low,Low,10,Low
+29-1022,Oral and Maxillofacial Surgeons,Healthcare,5,10,0.005,3,208000,Doctoral degree,Very High,Very High,Very High,Low,Low,Low,5,Low
+29-1023,Orthodontists,Healthcare,10,15,0.007,8,208000,Doctoral degree,Very High,Very High,Very High,Low,Low,Low,10,Low
+29-1031,Dietitians and Nutritionists,Healthcare,20,25,0.08,7,63490,Bachelor's degree,High,Medium,Very High,Low,Low,Low,20,Low
+29-1041,Optometrists,Healthcare,15,20,0.04,9,118050,Doctoral degree,Very High,Medium,Very High,Low,Low,Low,15,Low
+29-1051,Pharmacists,Healthcare,35,40,0.32,2,128570,Doctoral degree,Very High,Medium,Very High,Low,Low,High,35,Low
+29-1061,Anesthesiologists,Healthcare,10,15,0.03,2,271440,Doctoral degree,Very High,Very High,Very High,Low,Medium,Very High,10,Low
+29-1062,Family and General Practitioners,Healthcare,15,20,0.12,3,211780,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,15,Low
+29-1063,Internists,Healthcare,15,20,0.05,1,201440,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,15,Low
+29-1064,Obstetricians and Gynecologists,Healthcare,10,15,0.02,1,239120,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,10,Low
+29-1065,Pediatricians,Healthcare,15,20,0.03,2,177130,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,15,Low
+29-1066,Psychiatrists,Healthcare,10,15,0.03,12,220380,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,10,Low
+29-1067,Surgeons,Healthcare,10,15,0.04,1,208000,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,10,Low
+29-1071,Physician Assistants,Healthcare,20,25,0.13,31,115390,Master's degree,Very High,Medium,Very High,Low,Medium,Very High,20,Low
+29-1081,Podiatrists,Healthcare,15,20,0.01,1,134300,Doctoral degree,Very High,Medium,Very High,Low,Low,Low,15,Low
+29-1122,Occupational Therapists,Healthcare,15,20,0.13,17,86280,Master's degree,Very High,Medium,Very High,Low,Medium,Low,15,Low
+29-1123,Physical Therapists,Healthcare,15,20,0.23,21,91200,Doctoral degree,Very High,Medium,Very High,Low,Medium,Low,15,Low
+29-1124,Radiation Therapists,Healthcare,25,30,0.02,7,86120,Associate degree,High,Medium,Very High,Low,Low,High,25,Low
+29-1125,Recreational Therapists,Healthcare,20,25,0.02,4,48720,Bachelor's degree,High,Medium,Very High,Low,Medium,Low,20,Low
+29-1126,Respiratory Therapists,Healthcare,30,35,0.13,14,62000,Associate degree,High,Medium,Very High,Low,Low,High,30,Low
+29-1127,Speech-Language Pathologists,Healthcare,20,25,0.15,25,80090,Master's degree,Very High,Medium,Very High,Low,Low,Low,20,Low
+29-1131,Veterinarians,Healthcare,15,20,0.08,17,99650,Doctoral degree,Very High,High,Very High,Low,Medium,Low,15,Low
+29-1141,Registered Nurses,Healthcare,25,30,3.1,9,75330,Bachelor's degree,High,Medium,Very High,Low,Low,High,25,Low
+29-1151,Nurse Anesthetists,Healthcare,20,25,0.04,13,183580,Master's degree,Very High,Medium,Very High,Low,Medium,Very High,20,Low
+29-1161,Nurse Midwives,Healthcare,15,20,0.01,7,112830,Master's degree,Very High,Medium,Very High,Low,Low,Very High,15,Low
+29-1171,Nurse Practitioners,Healthcare,20,25,0.22,52,118040,Master's degree,Very High,Medium,Very High,Low,Low,Very High,20,Low
+29-1211,Anesthesiologist Assistants,Healthcare,25,30,0.002,12,112260,Master's degree,Very High,Medium,Very High,Low,Low,High,25,Low
+29-1215,Family Medicine Physicians,Healthcare,15,20,0.08,4,214370,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,15,Low
+29-1216,General Internal Medicine Physicians,Healthcare,15,20,0.06,1,242190,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,15,Low
+29-1221,Pediatricians General,Healthcare,15,20,0.03,2,198420,Doctoral degree,Very High,Very High,Very High,Low,Low,Very High,15,Low
+29-9011,Health Information Technologists,Healthcare,55,60,0.05,7,58250,Bachelor's degree,High,Low,Low,Low,Low,High,55,Medium
+29-9012,Medical Dosimetrists,Healthcare,25,30,0.001,4,116040,Bachelor's degree,High,Medium,Medium,Low,Low,High,25,Low
+29-9021,Health Educators,Healthcare,20,25,0.06,9,60700,Bachelor's degree,High,Medium,Very High,Low,Low,Low,20,Low
+31-1011,Home Health Aides,Healthcare,45,50,3.6,25,27880,No degree required,Low,Low,Very High,High,Low,Low,45,Medium
+31-1012,Nursing Assistants,Healthcare,50,55,1.4,5,30210,No degree required,Low,Low,Very High,High,Low,Low,50,Medium
+31-1013,Psychiatric Aides,Healthcare,40,45,0.06,5,30640,No degree required,Low,Low,Very High,Medium,Low,Low,40,Medium
+31-2011,Occupational Therapy Assistants,Healthcare,30,35,0.08,25,61770,Associate degree,Medium,Low,High,Low,Medium,Low,30,Low
+31-2021,Physical Therapist Assistants,Healthcare,35,40,0.1,29,61820,Associate degree,Medium,Low,High,Low,Medium,Low,35,Low
+31-9011,Massage Therapists,Healthcare,25,30,0.15,22,43490,Postsecondary nondegree award,Medium,Low,Very High,High,Low,Low,25,Low
+31-9022,Medical Assistants,Healthcare,60,65,0.73,16,37190,Postsecondary nondegree award,Medium,Low,Medium,Low,Low,High,60,High
+31-9091,Dental Assistants,Healthcare,55,60,0.35,11,41380,Postsecondary nondegree award,Low,Low,Medium,Low,Low,High,55,High
+31-9092,Medical Assistants,Healthcare,65,70,0.9,19,37190,Postsecondary nondegree award,Medium,Low,Medium,Low,Low,High,65,High
+31-9093,Medical Equipment Preparers,Healthcare,75,80,0.06,7,38370,High school diploma,Low,Low,Low,Low,Low,High,75,High
+31-9094,Medical Transcriptionists,Healthcare,85,90,0.05,-7,30340,Postsecondary nondegree award,Low,Low,Low,Low,High,High,85,High
+31-9095,Pharmacy Aides,Healthcare,70,75,0.04,2,29690,High school diploma,Low,Low,Medium,Low,Low,High,70,High
+31-9096,Veterinary Assistants,Healthcare,55,60,0.11,14,29480,High school diploma,Medium,Low,High,High,Low,Low,55,High
+31-9097,Phlebotomists,Healthcare,60,65,0.13,22,37040,Postsecondary nondegree award,Medium,Low,Medium,Low,Low,High,60,High
+33-1011,First-Line Supervisors of Correctional Officers,Public Safety,35,40,0.05,-8,54000,High school diploma,Medium,Low,High,Low,Medium,Low,35,Low
+33-1012,First-Line Supervisors of Police and Detectives,Public Safety,25,30,0.13,6,99510,High school diploma,High,Medium,Very High,Low,Medium,Low,25,Low
+33-1021,First-Line Supervisors of Fire Fighting,Public Safety,20,25,0.07,6,78870,Postsecondary nondegree award,High,Medium,Very High,High,Low,Low,20,Low
+33-1099,First-Line Supervisors of Protective Service,Protective Service,40,45,0.09,6,54290,High school diploma,Medium,Low,High,Low,Low,Low,40,Medium
+33-2011,Firefighters,Protective Service,25,30,1.1,6,52250,Postsecondary nondegree award,Medium,Medium,Very High,High,Low,Low,25,Low
+33-2021,Fire Inspectors and Investigators,Protective Service,35,40,0.01,6,64460,High school diploma,Medium,Medium,High,Low,Medium,Low,35,Low
+33-2091,Fire Department Officers,Protective Service,30,35,0.06,4,78560,Some college,Medium,Low,High,Low,Medium,Low,30,Low
+33-3012,Bailiffs,Protective Service,45,50,0.02,4,47900,High school diploma,Medium,Low,High,Low,Low,Low,45,Medium
+33-3013,Correctional Officers and Jailers,Protective Service,50,55,0.43,-7,47200,High school diploma,Low,Low,High,Low,Low,Low,50,Medium
+33-3021,Detectives and Criminal Investigators,Protective Service,30,35,0.11,3,86640,Bachelor's degree,High,Medium,Very High,Low,Medium,Low,30,Low
+33-3031,Fish and Game Wardens,Protective Service,25,30,0.006,5,57910,Associate degree,Medium,Medium,High,Low,Medium,Low,25,Low
+33-3041,Parking Enforcement Workers,Protective Service,70,75,0.01,-5,38840,High school diploma,Low,Low,Medium,Low,Low,High,70,High
+33-3051,Police and Sheriff's Patrol Officers,Protective Service,30,35,0.67,5,64160,High school diploma,High,Medium,Very High,High,Medium,Low,30,Low
+33-9032,Security Guards,Protective Service,65,70,1.1,6,31490,No degree required,Low,Low,Medium,Low,Low,Medium,65,High
+33-9099,Protective Service Workers,Protective Service,50,55,0.12,4,34810,High school diploma,Low,Low,Medium,Low,Low,Low,50,Medium
+35-1011,Chefs and Head Cooks,Food Service,25,30,0.14,15,53500,High school diploma,Medium,Very High,High,High,High,Low,25,Low
+35-1012,First-Line Supervisors of Food Preparation,Food Service,50,55,0.93,10,36260,High school diploma,Low,Low,High,Low,Medium,Low,50,Medium
+35-2011,Cooks Fast Food,Food Service,80,85,0.81,10,24920,No degree required,Low,Low,Medium,Low,Medium,High,80,High
+35-2012,Cooks Institution and Cafeteria,Food Service,60,65,0.41,6,28340,No degree required,Low,Low,Medium,Low,Medium,High,60,High
+35-2014,Cooks Restaurant,Food Service,45,50,1.3,10,28600,No degree required,Low,Medium,Medium,Low,Medium,Medium,45,Medium
+35-2021,Food Preparation Workers,Food Service,75,80,0.92,8,26220,No degree required,Low,Low,Low,Low,High,High,75,High
+35-3011,Bartenders,Food Service,35,40,0.56,32,26760,No degree required,Medium,Medium,Very High,Low,Medium,Low,35,Low
+35-3023,Fast Food and Counter Workers,Food Service,85,90,3.5,10,24690,No degree required,Low,Low,Medium,Low,Low,High,85,High
+35-3031,Waiters and Waitresses,Food Service,70,75,2.0,7,25780,No degree required,Low,Medium,Very High,Low,Low,Low,70,High
+35-3041,Dining Room and Cafeteria Attendants,Food Service,80,85,0.45,8,25080,No degree required,Low,Low,Medium,High,Low,Low,80,High
+35-9021,Dishwashers,Food Service,85,90,0.52,6,25410,No degree required,Low,Low,Low,High,Low,Low,85,High
+35-9031,Hosts and Hostesses,Food Service,65,70,0.39,12,24920,No degree required,Low,Low,Very High,Low,Low,Low,65,High
+37-1011,First-Line Supervisors of Housekeeping,Cleaning,55,60,0.23,5,43820,High school diploma,Medium,Low,High,Low,Medium,Low,55,Medium
+37-1012,First-Line Supervisors of Landscaping,Landscaping,50,55,0.19,6,50630,High school diploma,Medium,Low,High,Low,Medium,Low,50,Medium
+37-2011,Janitors and Cleaners,Cleaning,70,75,2.4,3,28860,No degree required,Low,Low,Medium,High,Low,Low,70,High
+37-2012,Maids and Housekeeping Cleaners,Cleaning,75,80,0.78,6,26200,No degree required,Low,Low,Low,High,Low,Low,75,High
+37-2021,Pest Control Workers,Cleaning,45,50,0.09,4,37090,High school diploma,Low,Low,Medium,Low,Low,Low,45,Medium
+37-3011,Landscaping and Groundskeeping Workers,Landscaping,65,70,1.0,6,32580,No degree required,Low,Low,Low,High,Low,Low,65,High
+37-3013,Tree Trimmers and Pruners,Landscaping,40,45,0.06,9,40650,No degree required,Low,Low,Low,High,Low,Low,40,Medium
+39-1011,Gaming Supervisors,Hospitality,25,30,0.02,3,50350,High school diploma,Medium,Medium,Very High,Low,Medium,Low,25,Low
+39-1012,Slot Supervisors,Hospitality,55,60,0.01,4,48720,High school diploma,Low,Low,High,Low,Low,Low,55

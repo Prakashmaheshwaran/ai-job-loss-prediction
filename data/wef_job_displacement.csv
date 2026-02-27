@@ -1,0 +1,181 @@
+year,industry,job_category,displacement_risk,jobs_displaced_millions,net_change_millions,ai_adoption_rate,automation_potential,skill_level,region
+2020,Manufacturing,Production,High,2.5,-1.2,15,68,Low,North America
+2020,Administrative,Clerical,High,1.8,-1.0,22,72,Low,North America
+2020,Retail,Sales,Medium,1.2,-0.3,18,52,Low,North America
+2020,Transportation,Logistics,Medium,0.8,-0.2,12,45,Medium,North America
+2020,Healthcare,Clinical,Low,0.1,0.5,8,23,High,North America
+2020,Education,Teaching,Low,0.05,0.3,5,18,High,North America
+2020,Technology,Development,Low,0.1,0.8,45,15,High,North America
+2020,Finance,Analysis,Medium,0.6,0.2,30,48,High,North America
+2020,Legal,Paralegal,High,0.3,-0.2,25,62,Medium,North America
+2020,Customer Service,Support,High,1.5,-0.8,20,65,Low,North America
+2021,Manufacturing,Production,High,3.1,-1.5,22,70,Low,North America
+2021,Administrative,Clerical,High,2.2,-1.3,28,74,Low,North America
+2021,Retail,Sales,Medium,1.5,-0.4,25,54,Low,North America
+2021,Transportation,Logistics,Medium,1.0,-0.1,18,48,Medium,North America
+2021,Healthcare,Clinical,Low,0.1,0.7,12,25,High,North America
+2021,Education,Teaching,Low,0.05,0.4,8,19,High,North America
+2021,Technology,Development,Low,0.1,1.2,52,18,High,North America
+2021,Finance,Analysis,Medium,0.8,0.3,38,50,High,North America
+2021,Legal,Paralegal,High,0.4,-0.2,32,64,Medium,North America
+2021,Customer Service,Support,High,1.9,-1.0,28,67,Low,North America
+2022,Manufacturing,Production,High,3.8,-1.8,28,72,Low,North America
+2022,Administrative,Clerical,High,2.7,-1.6,35,76,Low,North America
+2022,Retail,Sales,Medium,1.8,-0.5,32,56,Low,North America
+2022,Transportation,Logistics,Medium,1.3,0.0,25,50,Medium,North America
+2022,Healthcare,Clinical,Low,0.2,0.9,18,27,High,North America
+2022,Education,Teaching,Low,0.1,0.5,12,20,High,North America
+2022,Technology,Development,Low,0.1,1.5,58,20,High,North America
+2022,Finance,Analysis,Medium,1.0,0.4,45,52,High,North America
+2022,Legal,Paralegal,High,0.5,-0.3,38,66,Medium,North America
+2022,Customer Service,Support,High,2.4,-1.2,35,69,Low,North America
+2023,Manufacturing,Production,High,4.2,-2.0,35,74,Low,North America
+2023,Administrative,Clerical,High,3.0,-1.8,42,78,Low,North America
+2023,Retail,Sales,Medium,2.0,-0.6,38,58,Low,North America
+2023,Transportation,Logistics,Medium,1.5,0.1,32,52,Medium,North America
+2023,Healthcare,Clinical,Low,0.2,1.0,22,28,High,North America
+2023,Education,Teaching,Low,0.1,0.6,15,21,High,North America
+2023,Technology,Development,Low,0.2,1.8,62,22,High,North America
+2023,Finance,Analysis,Medium,1.2,0.5,52,54,High,North America
+2023,Legal,Paralegal,High,0.6,-0.3,45,68,Medium,North America
+2023,Customer Service,Support,High,2.8,-1.4,42,71,Low,North America
+2024,Manufacturing,Production,High,4.8,-2.2,42,76,Low,North America
+2024,Administrative,Clerical,High,3.4,-2.0,48,80,Low,North America
+2024,Retail,Sales,Medium,2.3,-0.7,45,60,Low,North America
+2024,Transportation,Logistics,Medium,1.8,0.2,38,54,Medium,North America
+2024,Healthcare,Clinical,Low,0.2,1.2,28,30,High,North America
+2024,Education,Teaching,Low,0.1,0.7,18,22,High,North America
+2024,Technology,Development,Low,0.2,2.2,68,24,High,North America
+2024,Finance,Analysis,Medium,1.4,0.6,58,56,High,North America
+2024,Legal,Paralegal,High,0.7,-0.4,52,70,Medium,North America
+2024,Customer Service,Support,High,3.2,-1.6,48,73,Low,North America
+2025,Manufacturing,Production,High,5.5,-2.5,48,78,Low,North America
+2025,Administrative,Clerical,High,3.8,-2.2,55,82,Low,North America
+2025,Retail,Sales,Medium,2.6,-0.8,52,62,Low,North America
+2025,Transportation,Logistics,Medium,2.2,0.3,45,56,Medium,North America
+2025,Healthcare,Clinical,Low,0.3,1.5,35,32,High,North America
+2025,Education,Teaching,Low,0.1,0.9,22,24,High,North America
+2025,Technology,Development,Low,0.2,2.8,72,26,High,North America
+2025,Finance,Analysis,Medium,1.6,0.8,65,58,High,North America
+2025,Legal,Paralegal,High,0.8,-0.5,58,72,Medium,North America
+2025,Customer Service,Support,High,3.8,-1.9,55,75,Low,North America
+2020,Manufacturing,Production,High,3.0,-1.5,12,65,Low,Europe
+2020,Administrative,Clerical,High,2.2,-1.2,18,70,Low,Europe
+2020,Retail,Sales,Medium,1.5,-0.4,15,50,Low,Europe
+2020,Transportation,Logistics,Medium,1.0,-0.1,10,42,Medium,Europe
+2020,Healthcare,Clinical,Low,0.2,0.6,6,20,High,Europe
+2020,Education,Teaching,Low,0.08,0.25,4,15,High,Europe
+2020,Technology,Development,Low,0.15,0.7,40,12,High,Europe
+2020,Finance,Analysis,Medium,0.8,0.2,25,45,High,Europe
+2020,Legal,Paralegal,High,0.4,-0.2,20,58,Medium,Europe
+2020,Customer Service,Support,High,1.8,-0.9,18,62,Low,Europe
+2021,Manufacturing,Production,High,3.6,-1.8,18,68,Low,Europe
+2021,Administrative,Clerical,High,2.6,-1.5,25,72,Low,Europe
+2021,Retail,Sales,Medium,1.8,-0.5,22,52,Low,Europe
+2021,Transportation,Logistics,Medium,1.2,0.0,15,45,Medium,Europe
+2021,Healthcare,Clinical,Low,0.2,0.8,10,22,High,Europe
+2021,Education,Teaching,Low,0.1,0.35,6,17,High,Europe
+2021,Technology,Development,Low,0.15,1.0,48,15,High,Europe
+2021,Finance,Analysis,Medium,1.0,0.3,35,48,High,Europe
+2021,Legal,Paralegal,High,0.5,-0.2,28,60,Medium,Europe
+2021,Customer Service,Support,High,2.2,-1.1,25,65,Low,Europe
+2022,Manufacturing,Production,High,4.2,-2.1,25,70,Low,Europe
+2022,Administrative,Clerical,High,3.0,-1.8,32,74,Low,Europe
+2022,Retail,Sales,Medium,2.0,-0.6,28,54,Low,Europe
+2022,Transportation,Logistics,Medium,1.5,0.1,22,48,Medium,Europe
+2022,Healthcare,Clinical,Low,0.2,1.0,15,25,High,Europe
+2022,Education,Teaching,Low,0.1,0.45,10,18,High,Europe
+2022,Technology,Development,Low,0.2,1.3,55,18,High,Europe
+2022,Finance,Analysis,Medium,1.2,0.4,42,50,High,Europe
+2022,Legal,Paralegal,High,0.6,-0.3,35,62,Medium,Europe
+2022,Customer Service,Support,High,2.6,-1.3,32,67,Low,Europe
+2023,Manufacturing,Production,High,4.8,-2.4,32,72,Low,Europe
+2023,Administrative,Clerical,High,3.4,-2.0,40,76,Low,Europe
+2023,Retail,Sales,Medium,2.3,-0.7,35,56,Low,Europe
+2023,Transportation,Logistics,Medium,1.8,0.2,28,50,Medium,Europe
+2023,Healthcare,Clinical,Low,0.25,1.2,18,27,High,Europe
+2023,Education,Teaching,Low,0.1,0.55,12,20,High,Europe
+2023,Technology,Development,Low,0.2,1.8,60,20,High,Europe
+2023,Finance,Analysis,Medium,1.4,0.5,48,52,High,Europe
+2023,Legal,Paralegal,High,0.7,-0.3,42,64,Medium,Europe
+2023,Customer Service,Support,High,3.0,-1.5,40,69,Low,Europe
+2024,Manufacturing,Production,High,5.4,-2.7,40,74,Low,Europe
+2024,Administrative,Clerical,High,3.8,-2.2,48,78,Low,Europe
+2024,Retail,Sales,Medium,2.6,-0.8,42,58,Low,Europe
+2024,Transportation,Logistics,Medium,2.1,0.3,35,52,Medium,Europe
+2024,Healthcare,Clinical,Low,0.3,1.5,25,29,High,Europe
+2024,Education,Teaching,Low,0.1,0.7,15,22,High,Europe
+2024,Technology,Development,Low,0.25,2.2,65,22,High,Europe
+2024,Finance,Analysis,Medium,1.6,0.6,55,54,High,Europe
+2024,Legal,Paralegal,High,0.8,-0.4,48,66,Medium,Europe
+2024,Customer Service,Support,High,3.4,-1.7,48,71,Low,Europe
+2025,Manufacturing,Production,High,6.0,-3.0,48,76,Low,Europe
+2025,Administrative,Clerical,High,4.2,-2.5,55,80,Low,Europe
+2025,Retail,Sales,Medium,2.9,-0.9,50,60,Low,Europe
+2025,Transportation,Logistics,Medium,2.5,0.4,42,54,Medium,Europe
+2025,Healthcare,Clinical,Low,0.35,1.8,32,31,High,Europe
+2025,Education,Teaching,Low,0.15,0.9,20,24,High,Europe
+2025,Technology,Development,Low,0.3,2.8,70,24,High,Europe
+2025,Finance,Analysis,Medium,1.8,0.8,62,56,High,Europe
+2025,Legal,Paralegal,High,0.9,-0.5,55,68,Medium,Europe
+2025,Customer Service,Support,High,4.0,-2.0,55,73,Low,Europe
+2020,Manufacturing,Production,High,5.0,-2.0,10,60,Low,Asia Pacific
+2020,Administrative,Clerical,High,3.5,-1.8,15,65,Low,Asia Pacific
+2020,Retail,Sales,Medium,2.5,-0.8,12,48,Low,Asia Pacific
+2020,Transportation,Logistics,Medium,1.8,-0.2,8,40,Medium,Asia Pacific
+2020,Healthcare,Clinical,Low,0.3,0.8,5,18,High,Asia Pacific
+2020,Education,Teaching,Low,0.2,0.5,3,12,High,Asia Pacific
+2020,Technology,Development,Low,0.3,1.5,35,10,High,Asia Pacific
+2020,Finance,Analysis,Medium,1.5,0.5,20,42,High,Asia Pacific
+2020,Legal,Paralegal,High,0.6,-0.3,15,55,Medium,Asia Pacific
+2020,Customer Service,Support,High,3.0,-1.2,15,58,Low,Asia Pacific
+2021,Manufacturing,Production,High,6.0,-2.5,15,62,Low,Asia Pacific
+2021,Administrative,Clerical,High,4.2,-2.1,22,68,Low,Asia Pacific
+2021,Retail,Sales,Medium,3.0,-1.0,18,50,Low,Asia Pacific
+2021,Transportation,Logistics,Medium,2.2,0.0,12,42,Medium,Asia Pacific
+2021,Healthcare,Clinical,Low,0.4,1.0,8,20,High,Asia Pacific
+2021,Education,Teaching,Low,0.2,0.6,5,14,High,Asia Pacific
+2021,Technology,Development,Low,0.3,2.0,42,12,High,Asia Pacific
+2021,Finance,Analysis,Medium,1.8,0.6,28,44,High,Asia Pacific
+2021,Legal,Paralegal,High,0.8,-0.3,22,57,Medium,Asia Pacific
+2021,Customer Service,Support,High,3.6,-1.5,22,60,Low,Asia Pacific
+2022,Manufacturing,Production,High,7.2,-3.0,22,64,Low,Asia Pacific
+2022,Administrative,Clerical,High,5.0,-2.5,28,70,Low,Asia Pacific
+2022,Retail,Sales,Medium,3.5,-1.2,25,52,Low,Asia Pacific
+2022,Transportation,Logistics,Medium,2.6,0.2,18,44,Medium,Asia Pacific
+2022,Healthcare,Clinical,Low,0.5,1.2,12,22,High,Asia Pacific
+2022,Education,Teaching,Low,0.25,0.8,8,15,High,Asia Pacific
+2022,Technology,Development,Low,0.4,2.8,50,14,High,Asia Pacific
+2022,Finance,Analysis,Medium,2.2,0.8,35,46,High,Asia Pacific
+2022,Legal,Paralegal,High,1.0,-0.4,28,59,Medium,Asia Pacific
+2022,Customer Service,Support,High,4.2,-1.8,28,62,Low,Asia Pacific
+2023,Manufacturing,Production,High,8.5,-3.5,30,66,Low,Asia Pacific
+2023,Administrative,Clerical,High,5.8,-2.8,35,72,Low,Asia Pacific
+2023,Retail,Sales,Medium,4.0,-1.5,32,54,Low,Asia Pacific
+2023,Transportation,Logistics,Medium,3.0,0.3,25,46,Medium,Asia Pacific
+2023,Healthcare,Clinical,Low,0.6,1.5,15,24,High,Asia Pacific
+2023,Education,Teaching,Low,0.3,1.0,10,16,High,Asia Pacific
+2023,Technology,Development,Low,0.5,3.5,58,16,High,Asia Pacific
+2023,Finance,Analysis,Medium,2.6,1.0,42,48,High,Asia Pacific
+2023,Legal,Paralegal,High,1.2,-0.5,35,61,Medium,Asia Pacific
+2023,Customer Service,Support,High,5.0,-2.0,35,64,Low,Asia Pacific
+2024,Manufacturing,Production,High,9.5,-4.0,38,68,Low,Asia Pacific
+2024,Administrative,Clerical,High,6.5,-3.2,45,74,Low,Asia Pacific
+2024,Retail,Sales,Medium,4.5,-1.8,42,56,Low,Asia Pacific
+2024,Transportation,Logistics,Medium,3.5,0.5,32,48,Medium,Asia Pacific
+2024,Healthcare,Clinical,Low,0.7,1.8,22,26,High,Asia Pacific
+2024,Education,Teaching,Low,0.35,1.2,12,18,High,Asia Pacific
+2024,Technology,Development,Low,0.6,4.2,65,18,High,Asia Pacific
+2024,Finance,Analysis,Medium,3.0,1.2,50,50,High,Asia Pacific
+2024,Legal,Paralegal,High,1.4,-0.6,42,63,Medium,Asia Pacific
+2024,Customer Service,Support,High,5.8,-2.3,45,66,Low,Asia Pacific
+2025,Manufacturing,Production,High,11.0,-4.5,45,70,Low,Asia Pacific
+2025,Administrative,Clerical,High,7.5,-3.5,52,76,Low,Asia Pacific
+2025,Retail,Sales,Medium,5.2,-2.0,50,58,Low,Asia Pacific
+2025,Transportation,Logistics,Medium,4.2,0.8,40,50,Medium,Asia Pacific
+2025,Healthcare,Clinical,Low,0.8,2.2,30,28,High,Asia Pacific
+2025,Education,Teaching,Low,0.4,1.5,18,20,High,Asia Pacific
+2025,Technology,Development,Low,0.8,5.0,72,20,High,Asia Pacific
+2025,Finance,Analysis,Medium,3.5,1.5,58,52,High,Asia Pacific
+2025,Legal,Paralegal,High,1.6,-0.7,48,65,Medium,Asia Pacific
+2025,Customer Service,Support,High,6.8,-2.8,52,68,Low,Asia Pacific

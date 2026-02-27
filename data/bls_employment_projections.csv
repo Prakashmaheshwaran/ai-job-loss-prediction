@@ -1,0 +1,90 @@
+occupation_code,occupation_title,employment_2023_millions,projected_2033_millions,percent_change,job_openings_annual,median_wage_annual,education_typical,work_experience,on_the_job_training,automation_risk
+00-0000,All Occupations,161.0,169.5,5.3,19400,48060,High school diploma,None,Short-term,Medium
+11-1000,Management Occupations,9.5,9.9,4.6,1300,109760,Bachelor's degree,5 years,None,Low
+11-2000,Marketing and Sales Managers,2.8,2.9,4.1,370,138730,Bachelor's degree,5 years,None,Low
+11-3000,Operations Specialties Managers,2.2,2.4,6.2,210,108290,Bachelor's degree,5 years,None,Medium
+11-9000,Other Management Occupations,4.5,4.6,3.4,720,100090,Bachelor's degree,5 years,None,Medium
+13-1000,Business Operations Specialists,5.4,5.9,9.5,510,77030,Bachelor's degree,None,Moderate-term,Medium
+13-2000,Financial Specialists,7.2,7.6,5.2,790,78080,Bachelor's degree,None,Moderate-term,High
+15-1200,Computer Occupations,4.8,5.4,14.6,430,101670,Bachelor's degree,None,None,Low
+15-1211,Computer and Information Research Scientists,0.03,0.04,23.2,3.3,136620,Doctoral degree,None,None,Low
+15-1212,Information Security Analysts,0.17,0.23,32.9,16.8,120360,Bachelor's degree,None,None,Low
+15-1250,Software and Web Developers,1.9,2.2,17.4,160,127260,Bachelor's degree,None,None,Low
+17-1000,Architects Surveyors and Cartographers,0.24,0.25,3.9,21,83020,Bachelor's degree,None,None,Low
+17-2000,Engineers,2.1,2.2,4.9,110,100640,Bachelor's degree,None,None,Medium
+17-3000,Drafters Engineering Technicians and Mapping Technicians,0.58,0.59,2.4,48,58230,Associate's degree,None,None,High
+19-1000,Life Scientists,0.19,0.20,4.2,17,87450,Doctoral degree,None,None,Low
+19-2000,Physical Scientists,0.25,0.27,5.4,23,91770,Bachelor's degree,None,None,Low
+19-3000,Social Scientists and Related Workers,0.32,0.34,6.1,33,85570,Master's degree,None,None,Low
+19-4000,Life Physical and Social Science Technicians,0.38,0.40,4.3,44,52080,Associate's degree,None,Moderate-term,Medium
+21-1000,Counselors Social Workers and Other Community and Social Service Specialists,3.3,3.7,8.7,330,50470,Master's degree,None,None,Low
+21-2000,Religious Workers,0.37,0.38,2.0,42,28950,Bachelor's degree,None,None,Low
+23-1000,Lawyers Judges and Related Workers,0.86,0.92,7.0,46,130880,Doctoral degree,None,None,Low
+23-2000,Legal Support Workers,0.46,0.49,5.9,47,52390,Associate's degree,None,Short-term,High
+25-1000,Postsecondary Teachers,1.3,1.4,3.9,130,80940,Doctoral degree,None,None,Low
+25-2000,Preschool Elementary Middle Secondary and Special Education Teachers,6.6,6.8,3.1,590,61350,Bachelor's degree,None,None,Low
+25-3000,Other Teachers and Instructors,0.64,0.66,3.5,55,38960,Bachelor's degree,None,None,Low
+25-4000,Librarians Curators and Archivists,0.23,0.23,1.5,19,54690,Master's degree,None,None,Medium
+25-9000,Other Educational Instruction and Library Occupations,0.39,0.42,6.5,43,39940,Bachelor's degree,None,None,Low
+27-1000,Art and Design Workers,0.33,0.35,5.5,31,55710,Bachelor's degree,None,None,Medium
+27-2000,Entertainers and Performers Sports and Related Workers,0.52,0.55,4.9,75,Variable,Variable,None,Long-term,Low
+27-3000,Media and Communication Workers,1.8,1.9,3.8,132,64390,Bachelor's degree,None,None,Medium
+27-4000,Media and Communication Equipment Workers,0.36,0.37,3.1,32,52140,Associate's degree,None,Short-term,High
+29-1000,Health Diagnosing and Treating Practitioners,4.4,5.0,12.2,320,100890,Doctoral degree,None,None,Low
+29-2000,Health Technologists and Technicians,2.5,2.8,8.8,170,54370,Associate's degree,None,None,Medium
+29-9000,Other Healthcare Practitioners and Technical Occupations,0.29,0.31,5.4,28,49940,Bachelor's degree,None,None,Medium
+31-1100,Home Health and Personal Care Aides,3.7,4.8,25.0,700,30630,No degree,None,Short-term,Medium
+31-9000,Other Healthcare Support Occupations,1.1,1.2,5.0,140,35400,High school diploma,None,Short-term,High
+33-1000,Supervisors of Protective Service Workers,0.35,0.36,3.5,34,79780,High school diploma,Variable,Moderate-term,Low
+33-3000,Law Enforcement Workers,2.0,2.0,1.1,169,57000,Variable,Variable,Moderate-term,Low
+33-9000,Other Protective Service Workers,1.5,1.6,4.8,185,31810,High school diploma,None,Short-term,Medium
+35-1000,Supervisors of Food Preparation and Serving Workers,0.94,0.98,4.6,105,36260,High school diploma,Variable,None,Medium
+35-2000,Cooks and Food Preparation Workers,2.7,2.8,4.2,820,27610,No degree,None,Short-term,High
+35-3000,Food and Beverage Serving Workers,4.2,4.4,4.5,1230,25530,No degree,None,Short-term,High
+35-9000,Other Food Preparation and Serving Related Workers,0.87,0.91,4.0,145,26480,No degree,None,Short-term,High
+37-1000,Supervisors of Building and Grounds Cleaning and Maintenance Workers,0.42,0.44,4.2,46,46780,High school diploma,Variable,None,Medium
+37-2000,Building Cleaning and Pest Control Workers,2.6,2.7,4.1,410,30830,No degree,None,Short-term,High
+37-3000,Grounds Maintenance Workers,1.2,1.3,5.2,175,34610,No degree,None,Short-term,Medium
+39-1000,Supervisors of Personal Care and Service Workers,0.16,0.17,5.1,18,38550,High school diploma,Variable,None,Low
+39-3000,Other Personal Care and Service Workers,2.7,2.9,6.4,480,32890,No degree,None,Short-term,Medium
+39-9000,Other Personal Care and Service Workers,0.77,0.82,5.9,114,28120,High school diploma,None,Short-term,Medium
+41-1000,Supervisors of Sales Workers,1.4,1.4,2.3,153,47260,High school diploma,Variable,None,Medium
+41-2000,Retail Sales Workers,6.9,6.9,0.1,990,29490,No degree,None,Short-term,High
+41-3000,Sales Representatives Services,5.8,6.2,6.1,580,65420,High school diploma,None,Moderate-term,Medium
+41-4000,Sales Representatives Wholesale and Manufacturing,1.8,1.8,1.9,163,78220,High school diploma,None,Moderate-term,Medium
+41-9000,Other Sales and Related Workers,0.75,0.78,3.5,95,35780,High school diploma,Variable,None,Medium
+43-1000,Supervisors of Office and Administrative Support Workers,1.3,1.3,2.4,126,60890,High school diploma,Variable,None,Medium
+43-2000,Communications Equipment Operators,0.06,0.05,-7.9,6,38700,High school diploma,None,Short-term,High
+43-3000,Financial Clerks,1.3,1.3,0.2,157,43910,High school diploma,None,Short-term,High
+43-4000,Information and Record Clerks,3.7,3.8,2.1,400,38450,High school diploma,None,Short-term,High
+43-5000,Material Recording Scheduling Dispatching and Distributing Workers,3.9,3.8,-1.0,380,36000,High school diploma,None,Short-term,High
+43-6000,Secretaries and Administrative Assistants,2.9,2.7,-5.9,280,43980,High school diploma,None,None,High
+43-9000,Other Office and Administrative Support Workers,1.1,1.1,2.2,124,38690,High school diploma,None,Short-term,High
+45-1000,Supervisors of Farming Fishing and Forestry Workers,0.02,0.02,1.8,2,51460,High school diploma,Variable,None,Low
+45-2000,Agricultural Workers,0.61,0.62,2.1,110,29920,No degree,None,Short-term,Medium
+45-3000,Fishing and Hunting Workers,0.03,0.03,-5.6,5,36870,No degree,None,Moderate-term,Low
+45-4000,Forest Conservation and Logging Workers,0.05,0.04,-5.1,6,48080,High school diploma,None,Moderate-term,Medium
+47-1000,Supervisors of Construction and Extraction Workers,0.71,0.74,4.6,66,65410,High school diploma,Variable,None,Medium
+47-2000,Construction Trades Workers,5.4,5.6,3.7,470,52060,High school diploma,None,Apprenticeship,Medium
+47-3000,Helpers Construction Trades,0.16,0.17,3.0,19,35630,No degree,None,Short-term,High
+47-4000,Other Construction and Related Workers,0.40,0.42,4.3,36,46900,High school diploma,None,Short-term,Medium
+47-5000,Extraction Workers,0.28,0.28,1.3,26,50760,High school diploma,None,Moderate-term,High
+49-1000,Supervisors of Installation Maintenance and Repair Workers,0.74,0.77,3.6,68,67910,High school diploma,Variable,None,Medium
+49-2000,Electrical and Electronic Equipment Mechanics Installers and Repairers,0.54,0.55,3.2,49,59900,High school diploma,None,Long-term,Medium
+49-3000,Vehicle and Mobile Equipment Mechanics Installers and Repairers,1.8,1.8,1.5,150,48300,Postsecondary nondegree,None,Long-term,Medium
+49-9000,Other Installation Maintenance and Repair Occupations,0.76,0.79,4.1,69,48180,High school diploma,None,Moderate-term,Medium
+51-1000,Supervisors of Production Workers,0.72,0.72,0.6,60,64500,High school diploma,Variable,None,Medium
+51-2000,Assemblers and Fabricators,1.6,1.5,-4.9,150,35560,High school diploma,None,Moderate-term,High
+51-3000,Food Processing Workers,1.0,1.0,2.1,112,33210,No degree,None,Short-term,High
+51-4000,Metal Workers and Plastic Workers,1.3,1.3,0.5,108,40570,High school diploma,None,Moderate-term,High
+51-5100,Printing Workers,0.21,0.18,-13.5,18,39500,High school diploma,None,Moderate-term,High
+51-6000,Textile Apparel and Furnishings Workers,0.28,0.26,-5.2,29,30540,No degree,None,Short-term,High
+51-8000,Woodworkers,0.28,0.27,-1.2,25,35900,High school diploma,None,Moderate-term,Medium
+51-9000,Other Production Occupations,0.63,0.62,-1.3,56,39530,High school diploma,None,Short-term,High
+53-1000,Supervisors of Transportation and Material Moving Workers,0.50,0.52,4.5,47,52220,High school diploma,Variable,None,Medium
+53-2000,Air Transportation Workers,0.15,0.16,3.7,16,58460,Associate's degree,None,Moderate-term,Low
+53-3000,Motor Vehicle Operators,3.5,3.6,3.2,660,37080,Postsecondary nondegree,None,Short-term,Medium
+53-4000,Rail Transportation Workers,0.09,0.09,0.8,8,67530,High school diploma,None,Moderate-term,Medium
+53-5000,Water Transportation Workers,0.07,0.07,2.3,6,61540,Postsecondary nondegree,None,Moderate-term,Low
+53-6000,Other Transportation Workers,0.46,0.49,5.4,47,36180,High school diploma,None,Short-term,Medium
+53-7000,Material Moving Workers,6.8,7.0,3.3,910,35320,No degree,None,Short-term,High

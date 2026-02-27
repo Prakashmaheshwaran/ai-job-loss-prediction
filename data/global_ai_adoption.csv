@@ -1,0 +1,103 @@
+year,country,region,ai_adoption_rate,automation_readiness,digital_infrastructure_score,workforce_resilience_index,government_ai_strategy,investment_billions,skills_gap_percent,job_displacement_risk,job_creation_potential,net_job_impact
+2020,United States,North America,35,68,85,72,Yes,120,42,25,45,20
+2020,China,Asia Pacific,42,72,80,65,Yes,85,38,30,55,25
+2020,Germany,Europe,38,75,88,78,Yes,45,35,20,35,15
+2020,United Kingdom,Europe,36,73,86,74,Yes,35,36,22,38,16
+2020,Japan,Asia Pacific,40,70,82,71,Yes,38,40,25,40,15
+2020,India,Asia Pacific,28,55,65,58,Yes,25,52,35,50,15
+2020,South Korea,Asia Pacific,45,75,88,76,Yes,32,32,20,45,25
+2020,Canada,North America,34,70,84,73,Yes,28,38,24,42,18
+2020,France,Europe,33,71,82,73,Yes,30,34,21,36,15
+2020,Brazil,Latin America,22,48,58,52,Partial,12,58,40,45,5
+2020,Australia,Oceania,32,68,80,71,Yes,22,40,26,40,14
+2020,Singapore,Asia Pacific,48,78,90,82,Yes,18,28,18,48,30
+2021,United States,North America,42,72,86,74,Yes,145,38,28,52,24
+2021,China,Asia Pacific,50,75,82,68,Yes,110,35,35,65,30
+2021,Germany,Europe,45,78,90,80,Yes,55,32,24,42,18
+2021,United Kingdom,Europe,42,76,88,76,Yes,42,34,26,45,19
+2021,Japan,Asia Pacific,48,73,84,73,Yes,45,37,30,48,18
+2021,India,Asia Pacific,35,60,70,62,Yes,35,48,42,58,16
+2021,South Korea,Asia Pacific,52,78,90,78,Yes,40,28,24,52,28
+2021,Canada,North America,40,74,86,76,Yes,35,35,28,48,20
+2021,France,Europe,40,75,86,76,Yes,38,30,25,42,17
+2021,Brazil,Latin America,28,52,62,55,Partial,18,54,45,50,5
+2021,Australia,Oceania,38,72,84,74,Yes,28,36,30,45,15
+2021,Singapore,Asia Pacific,55,82,92,84,Yes,25,24,22,55,33
+2021,Netherlands,Europe,43,77,88,79,Yes,25,31,23,44,21
+2021,Switzerland,Europe,48,80,90,83,Yes,22,28,20,46,26
+2021,Sweden,Europe,46,78,88,81,Yes,20,29,21,43,22
+2022,United States,North America,48,76,88,76,Yes,175,35,32,58,26
+2022,China,Asia Pacific,58,78,84,70,Yes,140,32,42,75,33
+2022,Germany,Europe,52,80,92,82,Yes,68,28,28,50,22
+2022,United Kingdom,Europe,48,78,90,78,Yes,50,30,30,52,22
+2022,Japan,Asia Pacific,55,76,86,75,Yes,52,34,35,55,20
+2022,India,Asia Pacific,42,65,75,66,Yes,48,44,48,65,17
+2022,South Korea,Asia Pacific,60,82,92,80,Yes,50,24,28,58,30
+2022,Canada,North America,46,78,88,78,Yes,42,32,32,52,20
+2022,France,Europe,46,78,88,78,Yes,45,26,29,48,19
+2022,Brazil,Latin America,35,58,68,58,Yes,25,50,50,58,8
+2022,Australia,Oceania,44,76,88,76,Yes,35,32,35,50,15
+2022,Singapore,Asia Pacific,65,86,94,86,Yes,32,20,28,62,34
+2022,Netherlands,Europe,50,80,90,82,Yes,32,28,28,50,22
+2022,Switzerland,Europe,55,84,92,86,Yes,28,24,24,52,28
+2022,Sweden,Europe,52,82,90,84,Yes,25,25,25,48,23
+2022,Israel,Asia Pacific,58,84,90,85,Yes,22,22,22,56,34
+2022,United Arab Emirates,Middle East,45,74,85,75,Yes,20,38,35,55,20
+2023,United States,North America,55,80,90,78,Yes,210,32,38,65,27
+2023,China,Asia Pacific,65,80,86,72,Yes,180,30,50,85,35
+2023,Germany,Europe,58,82,94,84,Yes,82,25,34,58,24
+2023,United Kingdom,Europe,54,80,92,80,Yes,60,26,36,60,24
+2023,Japan,Asia Pacific,62,78,88,77,Yes,60,30,40,62,22
+2023,India,Asia Pacific,50,70,80,70,Yes,65,40,55,75,20
+2023,South Korea,Asia Pacific,68,86,94,82,Yes,60,20,34,65,31
+2023,Canada,North America,52,82,90,80,Yes,50,28,38,58,20
+2023,France,Europe,52,82,90,80,Yes,55,22,35,54,19
+2023,Brazil,Latin America,42,64,74,62,Yes,35,44,58,68,10
+2023,Australia,Oceania,50,80,92,78,Yes,45,28,42,58,16
+2023,Singapore,Asia Pacific,72,90,96,88,Yes,42,16,35,68,33
+2023,Netherlands,Europe,56,84,92,84,Yes,40,24,34,56,22
+2023,Switzerland,Europe,62,88,94,88,Yes,35,20,30,58,28
+2023,Sweden,Europe,58,86,92,86,Yes,32,21,31,54,23
+2023,Israel,Asia Pacific,65,88,92,88,Yes,30,18,28,62,34
+2023,United Arab Emirates,Middle East,55,80,90,80,Yes,28,32,42,62,20
+2023,Saudi Arabia,Middle East,40,68,78,68,Partial,25,48,48,58,10
+2024,United States,North America,62,84,92,80,Yes,255,28,45,72,27
+2024,China,Asia Pacific,72,84,88,74,Yes,220,28,58,95,37
+2024,Germany,Europe,65,86,96,86,Yes,98,22,40,68,28
+2024,United Kingdom,Europe,60,84,94,82,Yes,72,22,42,68,26
+2024,Japan,Asia Pacific,68,82,90,79,Yes,72,26,46,70,24
+2024,India,Asia Pacific,58,75,85,74,Yes,85,36,65,88,23
+2024,South Korea,Asia Pacific,75,90,96,84,Yes,75,16,42,72,30
+2024,Canada,North America,58,86,92,82,Yes,62,24,45,65,20
+2024,France,Europe,58,86,92,82,Yes,68,18,42,62,20
+2024,Brazil,Latin America,50,70,80,68,Yes,48,38,68,78,10
+2024,Australia,Oceania,56,84,94,82,Yes,58,24,48,66,18
+2024,Singapore,Asia Pacific,80,94,98,90,Yes,55,12,42,75,33
+2024,Netherlands,Europe,64,88,94,86,Yes,50,20,42,64,22
+2024,Switzerland,Europe,70,92,96,90,Yes,45,16,36,65,29
+2024,Sweden,Europe,65,90,94,88,Yes,42,17,38,62,24
+2024,Israel,Asia Pacific,72,92,94,90,Yes,40,14,35,70,35
+2024,United Arab Emirates,Middle East,65,86,94,84,Yes,38,26,50,70,20
+2024,Saudi Arabia,Middle East,52,76,86,74,Yes,35,40,58,70,12
+2024,Italy,Europe,48,78,86,76,Yes,42,28,38,52,14
+2024,Spain,Europe,50,80,88,78,Yes,38,26,36,54,18
+2025,United States,North America,68,88,94,82,Yes,310,25,52,80,28
+2025,China,Asia Pacific,78,88,90,76,Yes,260,26,68,108,40
+2025,Germany,Europe,72,90,98,88,Yes,115,20,48,78,30
+2025,United Kingdom,Europe,66,88,96,84,Yes,88,20,50,78,28
+2025,Japan,Asia Pacific,75,86,92,81,Yes,88,24,55,80,25
+2025,India,Asia Pacific,65,80,90,78,Yes,105,32,75,100,25
+2025,South Korea,Asia Pacific,82,94,98,86,Yes,90,12,50,80,30
+2025,Canada,North America,65,90,94,84,Yes,75,20,52,72,20
+2025,France,Europe,65,90,94,84,Yes,82,15,50,72,22
+2025,Brazil,Latin America,58,76,86,74,Yes,62,32,78,88,10
+2025,Australia,Oceania,62,88,96,86,Yes,72,20,55,75,20
+2025,Singapore,Asia Pacific,88,98,100,92,Yes,70,8,50,82,32
+2025,Netherlands,Europe,72,92,96,88,Yes,62,18,50,72,22
+2025,Switzerland,Europe,78,96,98,92,Yes,58,12,42,72,30
+2025,Sweden,Europe,72,94,96,90,Yes,55,14,45,70,25
+2025,Israel,Asia Pacific,80,96,96,92,Yes,52,10,42,78,36
+2025,United Arab Emirates,Middle East,75,92,98,88,Yes,48,20,58,78,20
+2025,Saudi Arabia,Middle East,62,84,92,80,Yes,45,34,68,82,14
+2025,Italy,Europe,55,84,90,80,Yes,52,24,48,62,14
+2025,Spain,Europe,58,86,92,82,Yes,48,22,45,64,19
